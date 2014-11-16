@@ -1,0 +1,23 @@
+{
+  "name": "ng-fitness",
+  "version": "0.1.0",
+  "authors": [
+    "Jilles Soeters <info@jilles.me>"
+  ],
+  "description": "Gym tracking app",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.2",
+    "d3": "~3.4.13",
+    "ui-router": "~0.2.12"
+  }
+}

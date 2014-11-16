@@ -1,0 +1,17 @@
+# ng-fitness
+public/dist
+public/lib
+
+# Node
+node_modules
+bower_components
+npm-debug.log
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
